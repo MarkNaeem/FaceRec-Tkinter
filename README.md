@@ -30,6 +30,10 @@ New features will be added to make the change from Ubuntu to Windows and make ch
 
 ## What is expected?
 
+<p align="center">
+<img src="https://github.com/MarkNaeem/FaceRec-Tkinter/blob/main/GIF.gif" width="500">
+ </p>
+
   - When the program is launched, your logo will show until you click start to open the camera. The video stream will appear in the place where the logo was.
   - The camera will detect faces immediatly in real-time and plot a blue box around each of them.
   - Once you started the camera stream, you can recognize, pause, edit, export data, or reset.
