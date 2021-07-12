@@ -2,6 +2,7 @@
 
 This is a quick python project for face recognition done in two days. It was made for a company for registeration purposes in an expo. The project uses OpenCV for the face detection and recognition tasks. Tkinter is also used for the GUI.
 
+
 <p align="center">
 <img src="https://github.com/MarkNaeem/FaceRec-Tkinter/blob/main/GUI.png" width="500">
  </p>
